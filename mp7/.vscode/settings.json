@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "exceptions.H": "cpp",
+        "file_system.C": "cpp",
+        "file_system.H": "cpp",
+        "kernel.C": "cpp",
+        "simple_disk.C": "cpp",
+        "irq.H": "cpp",
+        "file.C": "cpp",
+        "file.H": "cpp",
+        "frame_pool.C": "cpp",
+        "frame_pool.H": "cpp"
+    }
+}

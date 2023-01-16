@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "scheduler.C": "cpp",
+        "kernel.C": "cpp",
+        "thread.C": "cpp",
+        "thread.H": "cpp"
+    }
+}
